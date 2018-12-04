@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\bin\Debug\ArrayAverage(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\bin\Debug\ArrayAverage(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\bin\Debug\ArrayAverage(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage_KuotM_.frmArrayAverage.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Unit 5 (Arrays & Lists)\ArrayAverage(KuotM)\ArrayAverage(KuotM)\obj\Debug\ArrayAverage(KuotM).pdb

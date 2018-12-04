@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FindMaxValue_KuotM_
 {
-    public partial class Form1 : Form
+    public partial class frmFindMaxValue : Form
     {
-        public Form1()
+        public frmFindMaxValue()
         {
             InitializeComponent();
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FindMinValue_KuotM_
 {
-    public partial class Form1 : Form
+    public partial class frmFindMinValue : Form
     {
-        public Form1()
+        public frmFindMinValue()
         {
             InitializeComponent();
         }

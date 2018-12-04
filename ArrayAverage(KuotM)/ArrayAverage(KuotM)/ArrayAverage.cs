@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace ArrayAverage_KuotM_
 {
-    static class Program
+    static class ArrayAverage
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace ArrayAverage_KuotM_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmArrayAverage());
         }
     }
 }

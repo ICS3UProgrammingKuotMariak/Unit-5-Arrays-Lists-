@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FindMinValue_KuotM_
+namespace FindMaxValue_KuotM_
 {
-    static class Program
+    static class FindMaxValue
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace FindMinValue_KuotM_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmFindMaxValue());
         }
     }
 }
